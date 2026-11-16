@@ -8,21 +8,21 @@ This project focuses on analyzing social media engagement data using Python. It 
 
 🎯 Project Objectives
 
-Analyze social media engagement metrics.
+- Analyze social media engagement metrics.
 
-Identify the best-performing post types and content categories.
+- Identify the best-performing post types and content categories.
 
-Compare engagement rates across different countries.
+- Compare engagement rates across different countries.
 
-Understand the relationship between age and engagement.
+- Understand the relationship between age and engagement.
 
-Compare verified and non-verified accounts.
+- Compare verified and non-verified accounts.
 
-Analyze device usage and watch time.
+- Analyze device usage and watch time.
 
-Study the impact of sentiment on engagement.
+- Study the impact of sentiment on engagement.
 
-Create static and interactive data visualizations.
+- Create static and interactive data visualizations.
 
 📂 Dataset Description
 
@@ -32,19 +32,19 @@ The dataset contains 5,000 social media records with 19 original columns.
 
 🛠️ Technologies and Libraries Used
 
-Python – Programming language
+- Python – Programming language
 
-Pandas – Data manipulation and analysis
+- Pandas – Data manipulation and analysis
 
-NumPy – Numerical operations
+- NumPy – Numerical operations
 
-Matplotlib – Data visualization
+- Matplotlib – Data visualization
 
-Seaborn – Statistical visualization
+- Seaborn – Statistical visualization
 
-Plotly – Interactive visualizations
+- Plotly – Interactive visualizations
 
-Jupyter Notebook – Development environment
+- Jupyter Notebook – Development environment
 
 # Final Insights – Social Media Engagement Analytics
 

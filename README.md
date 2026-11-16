@@ -1,12 +1,12 @@
 # Social-Media-Engagement-Analytics-Using-Python-
 
-📌 Project Overview
+## 📌 Project Overview
 
 Social media platforms generate large amounts of data through likes, comments, shares, impressions, and watch time. Analyzing this data helps understand audience behaviour, measure content performance, and identify engagement trends.
 
 This project focuses on analyzing social media engagement data using Python. It uses data cleaning, manipulation, statistical analysis, and visualization techniques to identify patterns and generate meaningful insights.
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Analyze social media engagement metrics.
 
@@ -24,7 +24,7 @@ This project focuses on analyzing social media engagement data using Python. It 
 
 - Create static and interactive data visualizations.
 
-📂 Dataset Description
+## 📂 Dataset Description
 
 Dataset: social_media_engagement_5000.csv
 
